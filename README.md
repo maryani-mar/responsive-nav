@@ -20,3 +20,8 @@ Responsive Navbar with HTML, CSS, JS using Mobile First approach
 9. Click it
 10. Open a pull request by clicking the Create pull request button.
 11. Wait for me to review it
+
+# List of the Contributors
+
+1. [amateur-bot](https://github.com/amateur-bot)
+
