@@ -1,5 +1,6 @@
-# Responsive Navbar
-Responsive Navbar with HTML, CSS, JS using Mobile First approach
+# Responsive Navbar  
+![Simple Responsive Navbar with Mountain Hero Section Background](/example/example.png "Simple responsive navbar")  
+Responsive Navbar with HTML, CSS, JS using Mobile First approach  
 
 ## How to contribute?
 
@@ -26,4 +27,3 @@ Responsive Navbar with HTML, CSS, JS using Mobile First approach
 # List of the Contributors
 
 1. [amateur-bot](https://github.com/amateur-bot)
-
